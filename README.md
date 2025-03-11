@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Devvrat Singh
 - 👀 I’m interested in using tech to solve problems and issues
-- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on just about anything, i love learning while working with others
 
 
