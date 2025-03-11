@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Devvrat</h1>
 <h3 align="center">code ,read ,think(&chai).</h3>
 
-- 📫 How to reach me **devvratsingh35@gmail.com**
+- 📫 How to reach me:  **devvratsingh35@gmail.com**
 
-- ⚡ Fun fact **me funny**
+- ⚡ Fun fact : **me funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
