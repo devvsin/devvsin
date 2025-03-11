@@ -1,27 +1,19 @@
-# Hi there, I'm [Your Name]! 👋
+<h1 align="center">Hi , I'm Devvrat</h1>
+<h3 align="center">code ,read ,think(&chai).</h3>
 
-## About Me
-I'm a [Your Profession/Role] with a passion for [Your Interests or Specializations]. I enjoy working on projects involving [Technologies or Domains].
+- 📫 How to reach me **devvratsingh35@gmail.com**
 
-- 🔭 I’m currently working on [Current Projects]
-- 🌱 I’m currently learning [New Skills or Technologies]
-- 👯 I’m looking to collaborate on [Types of Projects]
-- 💬 Ask me about [Topics You Can Help With]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [Something Interesting About You]
+- ⚡ Fun fact **me funny**
 
-## Skills
-- **Languages:** [e.g., JavaScript, Python, Java]
-- **Frameworks:** [e.g., React, Angular, Django]
-- **Tools:** [e.g., Git, Docker, VS Code]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/devvratsingh420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devvratsingh420" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/konney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="konney" height="30" width="40" /></a>
+</p>
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devvsin&show_icons=true&locale=en&layout=compact" alt="devvsin" /></p>
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Personal Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=Google-Chrome&logoColor=white)](https://yourwebsite.com)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devvsin&show_icons=true&locale=en" alt="devvsin" /></p>
