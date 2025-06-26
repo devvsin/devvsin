@@ -3,7 +3,7 @@
 
 - 📫 How to reach me:  **devvratsingh35@gmail.com**
 
-- ⚡ Fun fact : **me funny**
+- ⚡ Fun fact : **goofy asl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
